@@ -5,7 +5,7 @@
 package hms;
 
 /**
- *
+ *jia ko smja rha hu
  * @author Master
  */
 public class Patient {
