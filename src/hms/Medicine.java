@@ -5,7 +5,7 @@
 package hms;
 
 /**
- *
+ **
  * @author Master
  */
 public class Medicine {
