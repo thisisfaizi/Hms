@@ -5,7 +5,7 @@
 package hms;
 
 /**
- *JIA KO SMJHA RHA HU
+ *JIA KO SMJHA RHA huu
  * @author Master
  */
 public class Medicine {
