@@ -6,7 +6,7 @@ package hms;
 
 /**
  *123456
- * nlkjhgdzfguijkjkn
+ *
  * @author Master
  */
 public class Patient {
